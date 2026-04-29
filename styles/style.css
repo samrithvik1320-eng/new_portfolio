@@ -191,6 +191,7 @@ color:#fff;
       justify-content: center;
       font-size: 13px;
       font-weight: bold;
+      flex-shrink: 0;
     }
 
     .it-support-footer {
